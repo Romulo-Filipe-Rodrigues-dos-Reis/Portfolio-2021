@@ -1,4 +1,4 @@
-# Portifólio
+# Portfólio
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
