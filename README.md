@@ -10,7 +10,7 @@
   <p align="center">
     Meu portfólio - Sobre mim, Projetos, Skills...
     <br />
-    <a href="https://github.com/Romulo-Filipe-Rodrigues-dos-Reis/"><strong>Explore os arquivos »</strong></a>
+    <a href="https://meu-portfolio-2021.netlify.app/"><strong>Acesse o Portfólio»</strong></a>
     <br />
     <br />
     <a href="https://github.com/Romulo-Filipe-Rodrigues-dos-Reis/portifolio-2021">Ver Demo</a>
@@ -44,7 +44,7 @@ As tecnologias usadas nesse projeto foram:
 <!-- GETTING STARTED -->
 ## Como usar
 
-Acesse: <a href="https://portifolio-2021.netlify.app/">Portfólio</a>
+Acesse: <a href="https://github.com/Romulo-Filipe-Rodrigues-dos-Reis/portifolio-2021.git">Portfólio</a>
 
 Este é um exemplo de como você pode dar instruções sobre como configurar seu projeto localmente. Para obter uma cópia local instalada e funcionando, siga estas etapas simples de exemplo.
 
