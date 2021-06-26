@@ -8,7 +8,7 @@
   <h2 align="center">Meu portfólio</h2>
 
   <p align="center">
-    Meu portfólio - Sobre mim, Projetos, Skills...
+    Sobre mim, Projetos, Skills...
     <br />
     <a href="https://meu-portfolio-2021.netlify.app/"><strong>Acesse o Portfólio»</strong></a>
     <br />
