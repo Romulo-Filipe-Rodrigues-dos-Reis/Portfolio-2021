@@ -44,7 +44,7 @@ As tecnologias usadas nesse projeto foram:
 <!-- GETTING STARTED -->
 ## Como usar
 
-Acesse o projeto on-line: <a href="">Portfólio</a>
+Acesse: <a href="https://portifolio-2021.netlify.app/">Portfólio</a>
 
 Este é um exemplo de como você pode dar instruções sobre como configurar seu projeto localmente. Para obter uma cópia local instalada e funcionando, siga estas etapas simples de exemplo.
 
