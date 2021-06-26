@@ -1,0 +1,135 @@
+// Extra small devices (portrait phones, less than 576px)
+@media (max-width: 991.98px) {
+
+	/* About section */
+	#sobre {
+
+		.left-section {
+			text-align: center;
+
+			.icons {
+				justify-content: center;
+			}
+		}
+
+		.right-section {
+			display: none;
+		}
+	}
+
+	/* Projects section */
+	#projetos {
+
+		padding: 6.875rem 0;
+
+		.cards {
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+		}
+
+		.more-projects a {
+			width: 90%;
+			padding: 1rem 4rem;
+		}
+	}
+
+	/* Formation section */
+	#formacao {
+
+		.first-row {
+			text-align: center;
+			justify-content: center;
+
+			div:last-child {
+				display: none;
+			}
+		}
+
+		.second-row {
+			text-align: center;
+			justify-content: center;
+			align-items: center;
+
+			.second-row-school {
+				text-align: center;
+				justify-content: center;
+				align-items: center;
+			}
+
+			div:first-child {
+				display: none;
+			}
+		}
+	}
+
+	/* Skills sections */
+	#habilidades {
+
+		.skills {
+			justify-content: space-around;
+			flex-direction: row;
+
+			.row-skills {
+				flex-direction: column;
+				padding: 0;
+
+				div {
+					margin: 1rem;
+					padding: 2.5rem;
+				}
+			}
+		}
+
+		.skills-studying {
+			flex-direction: column;
+			gap: 1rem;
+		}
+	}
+
+	/* Experience section */
+	#experiencia {
+
+		h3 {
+			text-align: center;
+		}
+
+		.info {
+			padding-top: 7rem;
+		}
+
+		.date {
+			justify-content: center;
+			flex-direction: column;
+			text-align: center;
+		}
+
+		.info-link {
+			margin-top: 2rem;
+			justify-content: center;
+			flex-direction: column;
+			text-align: center;
+		}
+	}
+
+	/* Courses section */
+	#certificados {
+
+		.cards {
+			justify-content: center;
+			flex-direction: column;
+			align-items: center;
+		}
+	}
+
+}
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+}
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {
+
+}
